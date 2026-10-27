@@ -10,7 +10,7 @@ import com.example.resourcebooking.repository.ResourceRepository;
 import com.example.resourcebooking.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.slf4j.LoggerFactory; 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Component;
