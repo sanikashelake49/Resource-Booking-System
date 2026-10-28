@@ -8,7 +8,7 @@
 
 CREATE DATABASE IF NOT EXISTS resource_booking_db
     CHARACTER SET utf8mb4
-    COLLATE utf8mb4_unicode_ci;
+    COLLATE utf8mb4_unicode_ci; 
 
 USE resource_booking_db;
 
