@@ -2,7 +2,7 @@
 -- Resource Booking System - Database Setup Script
 -- =========================================================
 -- Hibernate (spring.jpa.hibernate.ddl-auto=update) will automatically
--- create/update the tables (users, resources, reservations) on startup.
+-- create/update the tables (users, resources, reservations) on startup. 
 -- You only need to run the CREATE DATABASE statement below.
 -- =========================================================
 
