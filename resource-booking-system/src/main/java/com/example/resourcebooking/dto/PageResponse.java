@@ -12,7 +12,7 @@ import java.util.List;
  * Generic wrapper used to return paginated results with a
  * predictable, simple JSON shape for API consumers.
  */
-@Data
+@Data 
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
