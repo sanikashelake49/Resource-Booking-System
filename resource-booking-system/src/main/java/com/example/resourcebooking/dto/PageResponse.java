@@ -6,7 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.domain.Page;
 
-import java.util.List;
+import java.util.List; 
 
 /**
  * Generic wrapper used to return paginated results with a
