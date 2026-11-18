@@ -1,7 +1,7 @@
 package com.example.resourcebooking.config;
 
 import com.example.resourcebooking.entity.Reservation;
-import com.example.resourcebooking.entity.Resource;
+import com.example.resourcebooking.entity.Resource; 
 import com.example.resourcebooking.entity.User;
 import com.example.resourcebooking.enums.ReservationStatus;
 import com.example.resourcebooking.enums.Role;   
